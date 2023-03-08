@@ -2,7 +2,7 @@
 
 ⚡ I’m a Full Stack Developer with a background in Audio Production and Technologies.
 <br>
-👾 Recent Projects: <a href="https://caiomazur.github.io/Wizzards-Demons/">Wizzards and Demons Game</a> • <a href="https://nice-lime-kitten-tutu.cyclic.app/">Heart Movies Web App</a> • <a href="#"></a>
+🚀 Recent Projects: <a href="https://caiomazur.github.io/Wizzards-Demons/">Wizzards and Demons Game</a> • <a href="https://nice-lime-kitten-tutu.cyclic.app/">Heart Movies Web App</a> • <a href="#"></a>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -34,7 +34,9 @@
 
 ![image](https://www.codewars.com/users/caiomazur/badges/large)
 
-<div align="center">
+<hr>
+
+<div align="left">
   <a href="https://github.com/caiomazur">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomazur&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomazur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
