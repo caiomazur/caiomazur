@@ -2,7 +2,7 @@
 
 ⚡ I’m a Full Stack Developer with a background in Audio Production and Technologies.
 <br>
-🚀 Recent Projects: <a href="https://caiomazur.github.io/Wizzards-Demons/">Wizzards and Demons Game</a> • <a href="https://nice-lime-kitten-tutu.cyclic.app/">Heart Movies Web App</a> • <a href="#"></a>
+🚀 Recent Projects: <a href="https://caiomazur.github.io/Wizzards-Demons/">Wizzards and Demons Game</a> • <a href="https://nice-lime-kitten-tutu.cyclic.app/(https://heartmovies.cyclic.app/)">Heart Movies Web App</a> • <a href="#"></a>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
