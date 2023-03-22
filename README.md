@@ -1,8 +1,18 @@
-### Hi there 👋 I am Caio Mazur.
+### Hey there 👋 I am Caio Mazur.
 
 ⚡ I’m a Full Stack Developer with a background in Audio Production and Technologies.
 <br>
 🚀 Recent Projects: <a href="https://caiomazur.github.io/Wizzards-Demons/">Wizzards and Demons Game</a> • <a href="https://heartmovies.cyclic.app/">Heart Movies Web App</a> • <a href="https://pawesome-iron-hack.netlify.app/">Pawesome Web App</a>
+
+#### ✉️ How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-caiomazur-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiomazur/)](https://www.linkedin.com/in/caiomazur/)
+[![Gmail Badge](https://img.shields.io/badge/-caiomazur1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:caiomazur1@gmail.com)](mailto:caiomazur1@gmail.com)
+
+<hr>
+
+#### 💻 Stack:
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -26,12 +36,6 @@
 
 <hr>
 
-#### ✉️ How to reach me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-caiomazur-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiomazur/)](https://www.linkedin.com/in/caiomazur/)
-[![Gmail Badge](https://img.shields.io/badge/-caiomazur1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:caiomazur1@gmail.com)](mailto:caiomazur1@gmail.com)
-
-<hr>
 
 #### ⚔️ Codewars:
 
