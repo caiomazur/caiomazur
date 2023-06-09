@@ -2,7 +2,7 @@
 
 ⚡ I’m a Full Stack Developer with a background in Audio Production and Technologies.
 <br>
-🚀 Recent Projects: <a href="https://caiomazur.github.io/Wizzards-Demons/">Wizzards and Demons Game</a> • <a href="https://heartmovies.cyclic.app/">Heart Movies Web App</a> • <a href="https://pawesome-iron-hack.netlify.app/">Pawesome Web App</a> • <a href="pokedex-pokesearch.vercel.app/">Poke Search</a>
+🚀 Recent Projects: <a href="https://caiomazur.github.io/Wizzards-Demons/">Wizzards and Demons Game</a> • <a href="pokedex-pokesearch.vercel.app/">Poké Search</a> • <a href="https://heartmovies.cyclic.app/">Heart Movies Web App</a> • <a href="https://pawesome-iron-hack.netlify.app/">Pawesome Web App</a>
 
 
 #### ✉️ How to reach me:
